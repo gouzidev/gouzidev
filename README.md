@@ -13,6 +13,7 @@
 ```javascript
 const developer = {
     name: "Salah Eddine Gouzi",
+    email: "gouzi.dev@gmail.com",
     currentlyWorking: "42 core curriculum",
     project: "internship_search",
     role: "Junior Software Architect / Full Stack Developer",
